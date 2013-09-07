@@ -1,3 +1,3 @@
 Game
 ====
-This is a game.
+This is a game. It is currently being developed.
